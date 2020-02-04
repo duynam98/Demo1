@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <com.duynam.demo1.utils.HiveProgressView
+        android:id="@+id/progress_loading"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        app:hive_animDuration="1000"
+        app:hive_color="#FF4081"
+        app:hive_cornerRadius="20"
+        app:hive_maxAlpha="100"
+        app:hive_rainbow="true"
+        app:hive_shrink="true" />
+
+</FrameLayout>

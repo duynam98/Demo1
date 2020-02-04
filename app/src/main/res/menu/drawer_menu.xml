@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/group1">
+
+        <item android:icon="@drawable/ic_lock_black_24dp"
+            android:title="Lock"
+            android:id="@+id/menu_lock"/>
+
+    </group>
+
+    <group android:id="@+id/group2">
+
+        <item android:icon="@drawable/ic_lock_black_24dp"
+            android:title="Lock"
+            android:id="@+id/menu_lock2"/>
+
+    </group>
+
+</menu>

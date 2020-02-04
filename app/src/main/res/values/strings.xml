@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo1</string>
+    <string name="lock">Bảo vệ điện thoại của bạn an toàn</string>
+    <string name="nav_header_desc">Applock</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="background">Background</string>
+</resources>
