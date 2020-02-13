@@ -23,6 +23,11 @@ import com.google.android.material.navigation.NavigationView;
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener{
 
     //nam oc cho
+    //nam oc cho
+    //nam oc cho
+    //nam oc cho
+    //nam oc cho
+
     private NavigationView navigationView;
     private DrawerLayout drawerlayout;
     ActionBarDrawerToggle toggle;
